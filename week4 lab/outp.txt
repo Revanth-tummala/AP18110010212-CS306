@@ -1,0 +1,36 @@
+int: keyword
+main: keyword
+(: 
+): 
+{: 
+int: keyword
+h: identifier
+;: 
+h: identifier
+=: Assignment operator
+20: digit
+!=: Relational operator NE
+-9: digit
+k: identifier
+=: Assignment operator
+.15: fractional float
+-4: digit
+b: identifier
++8: digit
+-5: digit
+n: identifier
++5: digit
+_start: identifier
+return: identifier
+0: digit
+;: 
+}: 
+
+Symbol table:
+
+1. h
+2. k
+3. b
+4. n
+5. _start
+6. return
